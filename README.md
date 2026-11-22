@@ -1,4 +1,4 @@
-Quantum Error Mitigation in Noisy Quantum Circuits
+
 This repository contains the code for my B.Tech project, Quantum Error Mitigation in Noisy Quantum Circuits.
 Project Overview
 The project focuses on implementing and comparing seven quantum error mitigation (QEM) methods:
